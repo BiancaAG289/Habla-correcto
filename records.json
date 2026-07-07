@@ -1,0 +1,24 @@
+{
+    "historial_partidas": [
+        {
+            "fecha": "2026-07-06 20:10:27",
+            "nombre": "Bianca",
+            "aciertos": 0,
+            "errores": 2,
+            "racha_max": 0,
+            "porcentaje": 0.0,
+            "tiempo_prom": 0.0,
+            "resultado": "Derrota"
+        },
+        {
+            "fecha": "2026-07-06 20:10:27",
+            "nombre": "Profesor",
+            "aciertos": 0,
+            "errores": 1,
+            "racha_max": 0,
+            "porcentaje": 0.0,
+            "tiempo_prom": 0.0,
+            "resultado": "Derrota"
+        }
+    ]
+}
